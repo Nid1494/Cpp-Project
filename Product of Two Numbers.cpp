@@ -1,7 +1,7 @@
 #include<iostream>
 int main()
 {
-	int a,b;
+	float a,b;
 	using std::cin;
 	using std::cout;
 	using std::endl;
