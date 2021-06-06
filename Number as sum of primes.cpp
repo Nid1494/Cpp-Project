@@ -16,7 +16,7 @@ int IsPrime(int num)
 int main()
 {
 	int num,i;
-	cout<<"Enter a Number: ";
+	cout<<"Enter a Positive Number: ";
 	cin>>num;
 	for(i=2;i<=num/2;++i)
 	{
