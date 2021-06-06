@@ -4,9 +4,9 @@ using namespace std;
 class Time
 {
 	private:
-			int hours,minutes,seconds;
+	        int hours,minutes,seconds;
 	public:
-		    void read();
+		void read();
 	        void convert();
 	        void display();
 };
